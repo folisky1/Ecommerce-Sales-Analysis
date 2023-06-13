@@ -21,7 +21,7 @@ the dataset used for this project was obtained from Kaggle.
 
 **RECOMMENDATIONS**
 
-1.To optimize sales, the e-commerce store should strategize targeted marketing campaigns, promotional offers, and special discounts during peak sales periods. Furthermore, it should conduct a thorough analysis to identify the factors contributing to lower sales during off-peak periods like February and December. This investigation will enable the store to address any underlying issues and implement tailored solutions to improve performance during those periods.
+1. To optimize sales, the e-commerce store should strategize targeted marketing campaigns, promotional offers, and special discounts during peak sales periods. Furthermore, it should conduct a thorough analysis to identify the factors contributing to lower sales during off-peak periods like February and December. This investigation will enable the store to address any underlying issues and implement tailored solutions to improve performance during those periods.
 
 2. the e-commerce store should prioritize increasing the stock of frequently purchased products to meet customer demand and prevent potential customer dissatisfaction. Simultaneously, discontinuing the sale of less in-demand products and reallocating resources to popular items will lead to enhanced customer satisfaction, improved sales, and a positive brand reputation
 
